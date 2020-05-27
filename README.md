@@ -6,7 +6,7 @@ Create issues on the link below on the parent repo if you are stuck and want to 
 
 This one should be fun(-ish).
 
-1. Create a wireframe using any tool you choose. You should wireframe out the front-page of your personal portfolio page. It should contain links to other pages, maybe some information about yourself, possibly some information about your portfolio. 
+1. Wireframe out the front-page of your personal portfolio page with any tool you choose. It should contain links to other pages, maybe some information about yourself, possibly some information about your portfolio. Don't worry about color, font, or content yet. Just think about the sections you need and a basic layout for the web.
 
 2. Inside of your forked assignment repository create an issue, called "Wireframe for portfolio" and attach a screenshot of your portfolio front page wireframe to the issue ticket. 
 
