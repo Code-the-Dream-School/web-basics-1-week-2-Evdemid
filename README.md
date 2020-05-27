@@ -2,9 +2,9 @@
 
 Create issues on the link below on the parent repo if you are stuck and want to talk about it. You can paste code, tag people and refer to other issues there. Link here: https://github.com/Code-the-Dream-School/web-basics-1-week-2
 
-Week 2 Assignment. 
 
-This one should be fun.
+
+This one should be fun(-ish).
 
 1. Create a wireframe using any tool you choose. You should wireframe out the front-page of your personal portfolio page. It should contain links to other pages, maybe some information about yourself, possibly some information about your portfolio. 
 
