@@ -22,7 +22,7 @@ This one should be fun(-ish).
 
 8. Using what you know about HTML and CSS try begin trying to create an HTML structure that might match your wireframe. Think in sections and chunks and how sections are divided into subsections. Give divs class names that match your sections and reuse class names where it makes sense. 
 
-9. Don't worry about colors or fonts. Using the css that you have already been taught begin trying to build a layout that matches your wireframe. Don't worry about getting it right, this will be hard, if not impossible to achieve. Document your questions, thoughts, etc. 
+9. Don't worry about colors or fonts. Using the css that you have already been taught begin trying to build a layout that matches your wireframe. Don't worry about getting it right, this will be hard, if not impossible to achieve. Document your questions, thoughts, etc. We will go over them in the mentor sessions.
 
 10. Add and commit your changes. Create a commit message that says, "Checked in some css and html". Push your branch back up to your remote by using the git push origin setup. 
 
@@ -31,8 +31,7 @@ This one should be fun(-ish).
 12. Checkout your master branch. Run 'git pull origin master'. 
 
 13. High five the monitor if when viewing your master branch you have all of your changes from the setup branch.
-
-STRETCH GOAL: Append a message from your javascript file into your index.html as an h4 tag. 
+ 
 
 
 
