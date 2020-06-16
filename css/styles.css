@@ -1,10 +1,27 @@
 body {
-    background-color: #fff;
+    background-image: url(""), linear-gradient(#BBDEFB, #B2EBF2)
     color: #3E2723
     margin: 0;
     padding: 0;
     font-size: 1 rem;
-    font-family: 
+    font-family:
+    line-heigt: 1.2;
 
+}
+header {
+    background-color: aqua;
+    width: 100%;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
+}
+.nav-container{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+} 
+.logo {
+    border-radius: 50%;
 }
